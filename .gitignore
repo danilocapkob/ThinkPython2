@@ -25,3 +25,9 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+#jupyter notebook checkpoint
+.ipynb*
+
+#file with "~"
+*~
